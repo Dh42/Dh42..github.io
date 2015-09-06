@@ -52,8 +52,17 @@ a {
     .btn + .btn {
       margin-top: 1rem;
       margin-left: 0; } }
-.top-page {background:#fff;}
-.logo {float:left;}
+.top-page {
+  background:#fff;
+  height:70px;
+  border-top:solid 3px #f16c49;
+  text-align:center;
+}
+.logo {}
+.menu-nav {
+  color:#fff;
+  padding-right:10px;
+}
 .page-header {
   color: #fff;
   text-align: center;
