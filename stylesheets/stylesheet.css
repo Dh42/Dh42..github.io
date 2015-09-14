@@ -120,7 +120,7 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #f16c49; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -261,3 +261,5 @@ a {
   padding:10px;
 }
 .description {min-height:81px;}
+
+.view_button {background-color:#f16c49;padding:7px;color:#fff;}
