@@ -231,6 +231,7 @@ a {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
+  clear:both;
   border-top: solid 1px #eff0f1; }
 
 .site-footer-owner {
@@ -252,4 +253,11 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
-.box {width:175;margin:10px 15px;border:solid #e5e5e5;}
+.box {
+  width:247px;
+  margin:10px 15px;
+  border:solid #e5e5e5;
+  float:left;
+  padding:10px;
+}
+.description {min-height:81px;}
